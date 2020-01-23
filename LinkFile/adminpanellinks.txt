@@ -572,3 +572,4 @@
 %s/ccms/
 %s/ccms/login.php
 %s/ccms/index.php
+%s/phpminiadmin.php
